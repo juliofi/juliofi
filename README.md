@@ -2,4 +2,4 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente no 5° semestre de Engenharia de Software na PUCRS. Amo desenvolvimento web, você pode acompanhar a evolução dos meus projetos aqui mesmo pelo github ou pelo meu site [ojulio.com.br](http://ojulio.com.br/)
+I'm 20 years old and from Rio Grande do Sul, Brazil. I'm in my 5th semester of Software Engineering at PUCRS. I love web development — you can check out my projects right here on GitHub or on my website: ojulio.com.br
